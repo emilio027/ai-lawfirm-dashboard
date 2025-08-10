@@ -1,1 +1,3 @@
-# ai-lawfirm-dashboard
+# Project Title
+
+This is a standardized README.
